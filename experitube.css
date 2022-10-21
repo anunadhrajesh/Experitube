@@ -1,0 +1,59 @@
+header
+{
+    background-color: blue;
+    color: white;
+    margin: 0%;
+    line-height: 100px;
+    color: azure;
+    text-indent: 5%;
+    font-size: 30px;
+    height: 140px;
+}
+.container
+{
+display: flex;
+}
+.item1{
+    margin: 0%;
+    font-size: 70px;
+    align-items: center;
+    height: 350px;
+    width: 70%;
+    color: white;
+    background-color: aquamarine;
+}
+
+.item2{
+    align-items: center;
+    background-color: orange;
+    width: 30%;
+    height: 350px;
+    font-size: 50px;
+    color: white;
+}
+
+footer{
+    width: 100%;
+    height: 138px;
+    background-color: aqua;
+
+}
+
+p{
+    line-height: 100px;
+    color: white;
+}
+
+span{
+    line-height: 100px;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    left: 45%;
+    font-size: 35px;
+    color: azure;
+}
+
+body{
+    margin: 0%;
+}
